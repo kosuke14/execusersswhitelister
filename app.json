@@ -1,7 +1,7 @@
 {
     "name": "Discord.py テンプレ装備",
     "description": "Discord.pyでbot作るテンプレ",
-    "repository": "https://github.com/sh1ma/discord-bot-template",
+    "repository": "https://github.com/kosuke14/execusersswhitelister",
     "keywords": [
         "discord",
         "bot",
@@ -9,7 +9,7 @@
     ],
     "env": {
         "DISCORD_TOKEN": {
-            "description": "Discord botのtokenをここに貼る"
+            "description": "ODczMzcyNzc5MTg0MDI5NzU3.YQ3dyQ.Bo9ClJz-B71yZFXALAGW10ChwU4"
         }
     }
 }
